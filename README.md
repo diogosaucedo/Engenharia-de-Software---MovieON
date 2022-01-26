@@ -1,4 +1,7 @@
 ﻿# MovieON 📺
+ 
+ **PROJETO CONCLUÍDO** ✅✅✅
+ 
 MovieON foi um projeto prático **não implementado**, desenvolvido para estudo de técnicas de **Engenharia de Software**.
 
 A ideia central é registrar tudo que usuários com faixa etária entre 16-49 anos consomem em plataformas de streaming de conteúdo audiovisual, semelhante ao LastFM, que se conecta ao Spotify ou outros serviços de streaming de música igualmente conhecidos, construindo um perfil de interesse. 
