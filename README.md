@@ -2,15 +2,21 @@
 MovieON foi um projeto prático **não implementado**, desenvolvido para estudo de técnicas de **Engenharia de Software**.
 
 A ideia central é registrar tudo que usuários com faixa etária entre 16-49 anos consomem em plataformas de streaming de conteúdo audiovisual, semelhante ao LastFM, que se conecta ao Spotify ou outros serviços de streaming de música igualmente conhecidos, construindo um perfil de interesse. 
-<div align="center" >
-<img width="80%" src = ""/>
+<div align="center">
+<img width="90%" src="https://github.com/diogosaucedo/Engenharia-de-Software-MovieON/blob/main/assets/Detalhes%20filmes.png?raw=true" />
 </div>
 
 Para a construção do perfil em questão, será relacionado: gênero, atores, diretores, ano de lançamento, “scrobbles” para contar o quanto você assistiu no dia, semana, mês ou o ano todo e o horário que você mais assiste. 
+<div align="center">
+<img width="90%" src="https://github.com/diogosaucedo/Engenharia-de-Software-MovieON/blob/main/assets/Perfil.png?raw=true" />
+</div>
 
 Com o perfil pronto, o usuário terá a possibilidade de tornar pública a sua lista de filmes assistidos e de indicação, fazendo com que outros usuários conectados ao seu perfil possam acessar essa lista, e quem sabe encontrar obras ainda não descobertas.
 
 Tal plataforma teria capacidade de prover obras cult do mundo inteiro, principalmente aquelas que não são contempladas em outros serviços proeminentes no Brasil.
+<div align="center">
+<img width="90%" src="https://github.com/diogosaucedo/Engenharia-de-Software-MovieON/blob/main/assets/Recomendações.png?raw=true" />
+</div>
 
 🔷 **O trabalho na íntegra esta neste repositório, com o nome `Engenharia de Software -  MovieON.pdf`**.
 
@@ -19,6 +25,10 @@ Tal plataforma teria capacidade de prover obras cult do mundo inteiro, principal
 - **EDISON CAMILO DA SILVA FILHO**
 - **IZAAC GERALDO ORMOND JUNIOR**
 - **PEDRO IVO BARBOSA**
+
+## Prototipagem de alto nível
+Você pode conferir as telas do projeto [aqui](https://www.figma.com/file/GnO3Oe0FEGSckJ68xln6i1/MovieON?node-id=2:2)
+
 
 ## Etapas Desenvolvidas
  - **O sistema**
